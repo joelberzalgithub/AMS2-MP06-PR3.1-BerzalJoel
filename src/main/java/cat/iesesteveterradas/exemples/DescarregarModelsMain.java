@@ -35,6 +35,7 @@ public class DescarregarModelsMain {
 
             for (int i = 0; i < urls.length(); i++) {
                 String urlString = urls.getString(i);
+                @SuppressWarnings("deprecation")
                 URL url = new URL(urlString);
                 String fileName = Paths.get(url.getPath()).getFileName().toString();
                 Path targetPath = Paths.get(targetDirPath, fileName);

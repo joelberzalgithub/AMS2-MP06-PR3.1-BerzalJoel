@@ -12,6 +12,8 @@ import org.basex.core.cmd.XQuery;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+// Exercici 2
+
 public class Main {
     private static final Logger logger = LoggerFactory.getLogger(Main.class);
 
@@ -33,7 +35,7 @@ public class Main {
         // Ens connectem al BaseX Server
         try (ClientSession session = new ClientSession("127.0.0.1", 1984, "admin", "admin")) {
             logger.info("Connectat al BaseX Server.");
-            session.execute(new Open("factbook"));
+            session.execute(new Open("boardgames"));
             
             // Recorrem cadascun dels arxius XQuery
             for (File queryFile : queryFiles) {

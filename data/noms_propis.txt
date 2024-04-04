@@ -1,0 +1,36 @@
+White - Entity Type: LOCATION
+
+4 - Entity Type: NUMBER
+
+ 2 - Entity Type: NUMBER
+
+UNO - Entity Type: ORGANIZATION
+
+4 - Entity Type: NUMBER
+
+ 2 - Entity Type: NUMBER
+
+second - Entity Type: ORDINAL
+
+one - Entity Type: NUMBER
+
+Catan - Entity Type: PERSON
+
+2 - Entity Type: NUMBER
+
+Catan - Entity Type: PERSON
+
+3 - 4 - Entity Type: NUMBER
+
+ 5 - 6 - Entity Type: NUMBER
+
+2 - Entity Type: NUMBER
+
+90 % - Entity Type: PERCENT
+
+Catan - Entity Type: PERSON
+
+2 - Entity Type: NUMBER
+
+one - Entity Type: NUMBER
+

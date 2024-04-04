@@ -1,0 +1,4058 @@
+<Tags>
+  <Tag>
+    <TagName TagName="magic-the-gathering"/>
+    <Count Count="5005"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="identify-this-game"/>
+    <Count Count="504"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="bridge"/>
+    <Count Count="473"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="house-rules"/>
+    <Count Count="300"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="catan"/>
+    <Count Count="288"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-commander"/>
+    <Count Count="285"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="bidding"/>
+    <Count Count="277"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="yu-gi-oh"/>
+    <Count Count="276"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dominion"/>
+    <Count Count="247"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="go"/>
+    <Count Count="225"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="game-design"/>
+    <Count Count="205"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="arkham-horror"/>
+    <Count Count="164"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="monopoly"/>
+    <Count Count="159"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="warhammer-40k"/>
+    <Count Count="155"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="android-netrunner"/>
+    <Count Count="152"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-stack"/>
+    <Count Count="125"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="ticket-to-ride"/>
+    <Count Count="124"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="betrayal-at-house-on-the-hill"/>
+    <Count Count="123"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="chess"/>
+    <Count Count="120"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="deck-building"/>
+    <Count Count="119"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="axis-and-allies"/>
+    <Count Count="115"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="scrabble"/>
+    <Count Count="106"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="pokemon"/>
+    <Count Count="106"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="munchkin"/>
+    <Count Count="101"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="carcassonne"/>
+    <Count Count="98"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="pandemic"/>
+    <Count Count="98"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="playing-cards"/>
+    <Count Count="96"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="eldritch-horror"/>
+    <Count Count="95"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="scoring"/>
+    <Count Count="91"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="7-wonders"/>
+    <Count Count="88"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="recommendations"/>
+    <Count Count="85"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="agricola"/>
+    <Count Count="83"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="uno"/>
+    <Count Count="83"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="untagged"/>
+    <Count Count="79"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="poker-texas-holdem"/>
+    <Count Count="78"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="canasta"/>
+    <Count Count="71"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="probability"/>
+    <Count Count="70"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dice"/>
+    <Count Count="70"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="cribbage"/>
+    <Count Count="68"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="game-of-thrones"/>
+    <Count Count="68"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-arena"/>
+    <Count Count="67"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="duplicate-bridge"/>
+    <Count Count="65"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="expansions"/>
+    <Count Count="64"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="diplomacy"/>
+    <Count Count="63"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="bang"/>
+    <Count Count="62"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="small-world"/>
+    <Count Count="62"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="history"/>
+    <Count Count="62"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="solitaire"/>
+    <Count Count="61"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="terminology"/>
+    <Count Count="60"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="online"/>
+    <Count Count="59"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="variants"/>
+    <Count Count="59"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mansions-of-madness"/>
+    <Count Count="58"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="battlestar-galactica"/>
+    <Count Count="57"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-multiplayer"/>
+    <Count Count="57"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="poker"/>
+    <Count Count="56"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="smash-up"/>
+    <Count Count="56"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="openings"/>
+    <Count Count="55"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mechanics"/>
+    <Count Count="54"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="fluxx"/>
+    <Count Count="54"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="statistics"/>
+    <Count Count="51"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="tournament"/>
+    <Count Count="51"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="catan-cities-and-knights"/>
+    <Count Count="51"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="king-of-tokyo"/>
+    <Count Count="51"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="risk"/>
+    <Count Count="50"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="monopoly-deal"/>
+    <Count Count="50"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="phase-10"/>
+    <Count Count="50"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-drafting"/>
+    <Count Count="49"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="game-development"/>
+    <Count Count="47"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="warhammer-fantasy"/>
+    <Count Count="46"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="rummikub"/>
+    <Count Count="45"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="ticket-to-ride-europe"/>
+    <Count Count="44"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="balance"/>
+    <Count Count="43"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="custom-game-pieces"/>
+    <Count Count="43"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="checkers"/>
+    <Count Count="43"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-competitive-rel"/>
+    <Count Count="43"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="etiquette"/>
+    <Count Count="42"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="exploding-kittens"/>
+    <Count Count="42"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="power-grid"/>
+    <Count Count="41"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="citadels"/>
+    <Count Count="40"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mahjong"/>
+    <Count Count="38"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="puerto-rico"/>
+    <Count Count="38"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="teaching"/>
+    <Count Count="38"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="catan-seafarers"/>
+    <Count Count="37"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="twilight-imperium"/>
+    <Count Count="37"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="computer-ai"/>
+    <Count Count="37"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="spades"/>
+    <Count Count="37"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-double-faced-cards"/>
+    <Count Count="37"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="carrom"/>
+    <Count Count="36"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="race-for-the-galaxy"/>
+    <Count Count="35"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="backgammon"/>
+    <Count Count="33"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="elder-sign"/>
+    <Count Count="33"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="tactics"/>
+    <Count Count="32"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="storage"/>
+    <Count Count="32"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="descent"/>
+    <Count Count="32"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dominion-intrigue"/>
+    <Count Count="32"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="blackjack"/>
+    <Count Count="32"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="splendor"/>
+    <Count Count="32"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="pandemic-legacy-season-1"/>
+    <Count Count="32"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-planeswalkers"/>
+    <Count Count="32"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="components"/>
+    <Count Count="31"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="euchre"/>
+    <Count Count="30"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="game-accessories"/>
+    <Count Count="29"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dominion-prosperity"/>
+    <Count Count="29"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="play-time"/>
+    <Count Count="28"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="eclipse"/>
+    <Count Count="28"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-joke-cards"/>
+    <Count Count="28"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="gloomhaven"/>
+    <Count Count="28"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="forbidden-island"/>
+    <Count Count="27"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-manabase"/>
+    <Count Count="27"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="edition-comparison"/>
+    <Count Count="27"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-face-down-cards"/>
+    <Count Count="27"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="the-resistance"/>
+    <Count Count="26"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="puzzles"/>
+    <Count Count="25"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="werewolf"/>
+    <Count Count="24"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="end-game"/>
+    <Count Count="24"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="saboteur-2"/>
+    <Count Count="24"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="board-game-adaptations"/>
+    <Count Count="23"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="pandemic-on-the-brink"/>
+    <Count Count="23"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="sorry"/>
+    <Count Count="23"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="zombicide"/>
+    <Count Count="23"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="pathfinder-adventure"/>
+    <Count Count="23"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="keyforge"/>
+    <Count Count="23"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="cosmic-encounter"/>
+    <Count Count="22"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="gin-rummy"/>
+    <Count Count="22"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dead-of-winter"/>
+    <Count Count="22"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="arkham-horror-card-game"/>
+    <Count Count="22"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-indestructible"/>
+    <Count Count="22"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="shuffling"/>
+    <Count Count="21"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-regular-rel"/>
+    <Count Count="21"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-professional-rel"/>
+    <Count Count="21"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="combinatorial-game-theory"/>
+    <Count Count="21"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="trick-taking-games"/>
+    <Count Count="21"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="riichi-mahjong"/>
+    <Count Count="20"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="bohnanza"/>
+    <Count Count="20"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="joseki"/>
+    <Count Count="20"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="civilization-board-game"/>
+    <Count Count="20"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="lords-of-waterdeep"/>
+    <Count Count="20"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-two-headed-giant"/>
+    <Count Count="20"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-legendary-cards"/>
+    <Count Count="20"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="luck"/>
+    <Count Count="19"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="handicap"/>
+    <Count Count="19"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="twilight-struggle"/>
+    <Count Count="19"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="the-lord-of-the-rings-lcg"/>
+    <Count Count="19"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-bestow"/>
+    <Count Count="19"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="twilight-imperium-3rd-edition"/>
+    <Count Count="19"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dominion-seaside"/>
+    <Count Count="18"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="prototyping"/>
+    <Count Count="18"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="risk-legacy"/>
+    <Count Count="18"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dominion-dark-ages"/>
+    <Count Count="18"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="sentinels-of-the-multiverse"/>
+    <Count Count="18"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="terra-mystica"/>
+    <Count Count="18"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="star-wars-imperial-assault"/>
+    <Count Count="18"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="cluedo"/>
+    <Count Count="17"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="hearts"/>
+    <Count Count="17"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dnd-adventure-system"/>
+    <Count Count="17"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="cheating"/>
+    <Count Count="17"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="talisman"/>
+    <Count Count="17"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="zombicide-black-plague"/>
+    <Count Count="17"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="joker"/>
+    <Count Count="17"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="trading"/>
+    <Count Count="16"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="ascension"/>
+    <Count Count="16"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="jenga"/>
+    <Count Count="16"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="robo-rally"/>
+    <Count Count="16"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="tsumego"/>
+    <Count Count="16"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="firefly"/>
+    <Count Count="16"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="shadowrun-crossfire"/>
+    <Count Count="16"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="fury-of-dracula"/>
+    <Count Count="16"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="cooperation"/>
+    <Count Count="15"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="computers"/>
+    <Count Count="15"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="rummy"/>
+    <Count Count="15"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="last-night-on-earth"/>
+    <Count Count="15"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-modern"/>
+    <Count Count="15"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="hive"/>
+    <Count Count="15"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="othello"/>
+    <Count Count="15"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="two-player"/>
+    <Count Count="15"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-priority"/>
+    <Count Count="15"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="twilight-imperium-4th-edition"/>
+    <Count Count="15"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="codenames"/>
+    <Count Count="15"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="identify-this-game-piece"/>
+    <Count Count="15"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dominion-alchemy"/>
+    <Count Count="14"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="warmachine"/>
+    <Count Count="14"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="small-world-underground"/>
+    <Count Count="14"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="flash-point"/>
+    <Count Count="14"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="tic-tac-toe"/>
+    <Count Count="14"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="pinochle"/>
+    <Count Count="14"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="love-letter"/>
+    <Count Count="14"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="boss-monster"/>
+    <Count Count="14"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="star-wars-x-wing"/>
+    <Count Count="14"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="game-lore"/>
+    <Count Count="14"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-color-identity"/>
+    <Count Count="14"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="kids"/>
+    <Count Count="13"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="random"/>
+    <Count Count="13"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="7-wonders-cities"/>
+    <Count Count="13"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="7-wonders-leaders"/>
+    <Count Count="13"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="star-realms"/>
+    <Count Count="13"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="one-night-werewolf"/>
+    <Count Count="13"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="7-wonders-duel"/>
+    <Count Count="13"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="pandemic-legacy-season-2"/>
+    <Count Count="13"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="game-setup"/>
+    <Count Count="13"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="party"/>
+    <Count Count="12"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="catan-traders-and-barbarians"/>
+    <Count Count="12"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="shadows-over-camelot"/>
+    <Count Count="12"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="rivals-for-catan"/>
+    <Count Count="12"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="rank"/>
+    <Count Count="12"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="guillotine"/>
+    <Count Count="12"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="tau"/>
+    <Count Count="12"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="board-size"/>
+    <Count Count="12"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="card-sleeves"/>
+    <Count Count="12"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="the-resistance-avalon"/>
+    <Count Count="12"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="doomtown-reloaded"/>
+    <Count Count="12"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="ethics"/>
+    <Count Count="12"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="parcheesi"/>
+    <Count Count="12"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="scythe"/>
+    <Count Count="12"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="pricing"/>
+    <Count Count="12"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="sequence"/>
+    <Count Count="12"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="unstable-unicorns"/>
+    <Count Count="12"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="miniatures"/>
+    <Count Count="11"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="turn-order"/>
+    <Count Count="11"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="skill"/>
+    <Count Count="11"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mancala"/>
+    <Count Count="11"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dixit"/>
+    <Count Count="11"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="game-theory"/>
+    <Count Count="11"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="saboteur"/>
+    <Count Count="11"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mage-knight"/>
+    <Count Count="11"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mice-and-mystics"/>
+    <Count Count="11"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-online"/>
+    <Count Count="11"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="legendary-marvel"/>
+    <Count Count="11"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="free-cell"/>
+    <Count Count="11"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-regenerate"/>
+    <Count Count="11"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="uno-flip"/>
+    <Count Count="11"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-adventure-cards"/>
+    <Count Count="11"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="munchkin-quest"/>
+    <Count Count="10"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="psychology"/>
+    <Count Count="10"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="through-the-ages"/>
+    <Count Count="10"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mulligans"/>
+    <Count Count="10"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="stone-age"/>
+    <Count Count="10"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dc-comics-deck-building"/>
+    <Count Count="10"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="boggle"/>
+    <Count Count="10"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="coup"/>
+    <Count Count="10"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="age-of-sigmar"/>
+    <Count Count="10"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="blood-rage"/>
+    <Count Count="10"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="harry-potter-hogwarts-battle"/>
+    <Count Count="10"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="pegasus"/>
+    <Count Count="9"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="san-juan"/>
+    <Count Count="9"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="hand-and-foot"/>
+    <Count Count="9"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="counting"/>
+    <Count Count="9"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="joseki-deviation"/>
+    <Count Count="9"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="cards-against-humanity"/>
+    <Count Count="9"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="midway"/>
+    <Count Count="9"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="alien-frontiers"/>
+    <Count Count="9"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="reference"/>
+    <Count Count="9"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dungeon"/>
+    <Count Count="9"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="takenoko"/>
+    <Count Count="9"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="tales-of-arabian-nights"/>
+    <Count Count="9"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="the-captain-is-dead"/>
+    <Count Count="9"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-commander-damage"/>
+    <Count Count="9"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="ko"/>
+    <Count Count="9"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="klondike-solitaire"/>
+    <Count Count="9"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="professional"/>
+    <Count Count="8"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="shadow-hunters"/>
+    <Count Count="8"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="notation"/>
+    <Count Count="8"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="legal"/>
+    <Count Count="8"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dominion-hinterlands"/>
+    <Count Count="8"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="print-and-play"/>
+    <Count Count="8"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="ghost-stories"/>
+    <Count Count="8"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="robinson-crusoe"/>
+    <Count Count="8"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="caverna"/>
+    <Count Count="8"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="7-wonders-babel"/>
+    <Count Count="8"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="machi-koro"/>
+    <Count Count="8"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dark-souls"/>
+    <Count Count="8"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dominion-empires"/>
+    <Count Count="8"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dominion-nocturne"/>
+    <Count Count="8"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="simulation"/>
+    <Count Count="8"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-enters-the-battlefield"/>
+    <Count Count="8"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="carcassonne-river"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="age-of-steam"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="illuminati"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="metagame"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="hordes"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="invasion"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="stratego"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="starcraft"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="chaos-in-the-old-world"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-cube"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="kingdom-builder"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="quarriors"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="call-of-cthulhu-lcg"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dominion-promotional"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="star-trek-ccg"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dominoes"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="forbidden-desert"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="neuroshima-hex"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="xia"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="necromunda"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dominion-adventures"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="arkham-horror-curse-of-dark-pharaoh"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="eldritch-horror-mountains-madness"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="catan-explorers-pirates"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="eldritch-horror-under-the-pyramids"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="board-game-geek"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="betrayal-widows-walk"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="magic-duels"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="robo-rally-2016"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="casino"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="ancient-board-games"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="betrayal-legacy"/>
+    <Count Count="7"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="memoir-44"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="castle-ravenloft"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="exodus"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dungeon-lords"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="sealed-deck"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="study"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="copyright"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="glory-to-rome"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="galaxy-trucker"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="star-wars-lcg"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="modelling"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="blokus"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="crayon-rail-games"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="king-of-tokyo-power-up"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="evolution"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="pegs-and-jokers"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="summoner-wars"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="arkham-horror-dunwich-horror"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="yahtzee"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-heroic"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="quoridor"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="hanabi"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="card-counting"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="eldritch-horror-forsaken-lore"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="card-rarity"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="eldritch-horror-strange-remnants"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="time-stories"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="betrayal-at-baldurs-gate"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="seki"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="ticket-to-ride-united-kingdom"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="vampire-the-masquerade-vendetta"/>
+    <Count Count="6"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="orks"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="catan-card-game"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="agricola-farmers-of-the-moor"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="a-touch-of-evil"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="death-angel"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="agricola-goodies"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="alhambra"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="hnefatafl"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="button-men"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="flames-of-war"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dungeonquest"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="caylus"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="betting"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="ninja-burger"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="netrunner-ccg"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="legends-of-andor"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="archipelago"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="connect-four"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="ios"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="nine-mens-morris"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mundus-novus"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="legend-of-the-five-rings"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="blood-bowl"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="arcadia-quest"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="kgs"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="taboo"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="tokaido"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="tichu"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="sushi-go"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="afrika-korps"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="secret-hitler"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="pandemic-in-the-lab"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mille-bornes"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="scotland-yard"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="tyranids"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="rage"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="santorini"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-emblems"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="root"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="blood-on-the-clocktower"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="wingspan"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-meld"/>
+    <Count Count="5"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="icehouse"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="brass"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="zombies"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="wow-tcg"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="puerto-rico-expansion-2"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="candy-land"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="claustrophobia"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="killer-bunnies"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="thickness"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="flash-duel"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dominion-cornucopia"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="shogi"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="game-of-thrones-card-game"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="conquest-of-planet-earth"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="archipelago-solo-exp"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="accessibility"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="my-little-pony-ccg"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="yomi"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mascarade"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="escape-from-atlantis"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="abalone"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="game-of-life"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="catan-junior"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mage-wars"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="kemet"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="suburbia"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="seasons"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dice-masters"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="tarot"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="epic-spell-wars"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="cv"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="lord-of-the-rings"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="tzolkin"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="war-of-the-ring"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="the-oregon-trail-card-game"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="tiny-epic-kingdoms"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dragon-ball-z-ccg"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-homebrew"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="avalon-hill"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="pandemic-state-of-emergency"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="five-tribes"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="harbour"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="terraforming-mars"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="aesthetics"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="resident-evil-deck-building-game"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="aeons-end"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="triominos"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dos"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="quacks"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="clank"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="monopoly-mega-edition"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-standard"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="rating-system"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="replacement-effect"/>
+    <Count Count="4"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="steam"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="railroad"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="warhammer-invasion"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="space-orks"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="18xx"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="game-system"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="khet"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="pirates-cove"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="do-it-yourself"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="liars-dice"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="empires-in-arms"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="goban"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="influence"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="le-havre"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="arkham-horror-innsmouth-horror"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="barbarian-prince"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="saint-petersburg"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="defenders-of-the-realm"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="roll-through-the-ages"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="3d-chess"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="penny-arcade-gamers-vs-evil"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="vinci"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="chaos-marauders"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="vassal"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="arkham-horror-miskatonic-horror"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="quarto"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="basing"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="trashing"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="doom"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="gloom"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="libertalia"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="the-agents"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="puzzle-strike"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="discworld-the-witches"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="arctic-scavengers"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="chinese-checkers"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="gomoku"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="card-wars"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="tsuro"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="the-castles-of-burgundy"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="thebes"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="thud"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="crazy8s"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="xcom"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="village"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dungeon-petz"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="rex"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="tokaido-crossroads"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="jamaica"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="tragedy-looper"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="patchwork"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="monopoly-empire"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="sheriff-of-nottingham"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="viticulture"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="tiny-epic-galaxies"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="pixel-tactics"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="labyrinth"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="space-hulk"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="events"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="battleship"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="ashes"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="star-wars-rebellion"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="star-wars-armada"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="words-with-friends"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="the-7th-continent"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="megaman-nt-warrior-tcg"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="escape-the-curse-of-the-temple"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="war"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="sushi-go-party"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="ticket-to-ride-the-heart-of-africa"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="ticket-to-ride-new-york"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="stuffed-fables"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="escape-the-room"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="xenoshyft-onslaught"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="gaia-project"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="cuba-libre"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="pandemic-legacy"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="streaking-kittens"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-non-english-cards"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="oriflamme"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="monopoly-cheaters-edition"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="nemesis"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="zombie-kittens"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="flesh-and-blood"/>
+    <Count Count="3"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="carcassonne-catapult"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="domaine"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="crokinole"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="cuba"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="zooloretto"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="elfenland"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="1000-blank-white-cards"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="broadside"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="thunderstone-dragonspire"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="kifu"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="positional-judgement"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="complexity"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dungeon-run"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="extension"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="shape"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="yaku"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="rat-a-tat-cat"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="eminent-domain"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="in-the-year-of-the-dragon"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="careers"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="principato"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="necron"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="american-megafauna"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="bios-megafauna"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="advanced-civilization"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="13x13"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="haggis"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="little-wars"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="cargo-noir"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="at-the-gates-of-loyang"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mad-zeppelin"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="castle-panic"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="ora-et-labora"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="discworld-ankh-morpork"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="lost-cities"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="titan"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="hansa-teutonica"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="redemption-tcg"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="roma"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="arcana"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="black-friday"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="castaways"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="relic"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="carcassonne-new-world"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mordheim"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="belfort"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="republic-of-rome"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="shogun"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="junta"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="wizard"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="starfarers-of-catan"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="pandemic-contagion"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="pit"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="istanbul"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="heroclix"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="kamisado"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="prosperity"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="rock-paper-scissors"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="two-rooms-and-a-boom"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="pantheon"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="unexploded-cow"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="struggle-for-catan"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="paris-connection"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="once-upon-a-time"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="advanced-squad-leader"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="specter-ops"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="hex-hex"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="modern-art"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="fortune-and-glory"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="gipf"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="little-red-riding-hood"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="battlecon"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="catacombs"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="rorys-story-cubes"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="vs-2pcg"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="the-witcher-adventure-game"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="pachisi"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="arkham-horror-kingsport-horror"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="arkham-horror-the-king-in-yellow"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="no-thanks"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="all-fours"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="farkle"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="final-fantasy-tcg"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="jaipur"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="condottiere"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dresden-files"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="vikings-gone-wild"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="split"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="love-letter-premium"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="ticket-to-ride-alvin-and-dexter"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="a-prophecy-of-dragons"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="scattergories"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="sheepshead"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="battletech"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dc-comics-deckbuilding-crisis"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="champions-of-midgard"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="poker-dice"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="this-war-of-mine"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="target-for-today"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="the-hobbit-enchanted-gold"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="vast-the-crystal-caverns"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="leela"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="wizard-school"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="custom-heroes"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="tak"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="cows-and-bulls"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="kingdomino"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="makruk"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="doctor-who-the-card-game"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="escape-from-aliens-in-outer-space"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="battle-for-rokugan"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="civilization-a-new-dawn"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="exploding-kittens-party-pack"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="peg-solitaire"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="desert-island"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="quest-for-el-dorado"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="thunderstone-quest"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="star-trek-deck-building-game"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="formula-one"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="bang-high-noon"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="cluedo-the-great-mystery-caper"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dragon-ball-z-perfect-cell"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="thunderstone"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="cripple-mr-onion"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="ninja-all-stars"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="fallout"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dungeons-and-dragons-board-game"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="thornwatch"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dominion-renaissance"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="ticket-to-ride-nordic-countries"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="azul"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="grand-austria-hotel"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="formula-d"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="gloomhaven-forgotten-circles"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="camp-grizzly"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="ultimate-tic-tac-toe"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="ticket-to-ride-asia"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="gizmos"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-brawl"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="charterstone"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="ticket-to-ride-london"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="steam-park"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="kanagawa"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="the-tea-dragon-society-card-games"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="zombicide-green-horde"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dragonfire"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="shedding"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="sevens"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="spirit-island"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="parks"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dune-imperium"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="bezique"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="lorcana"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-tokens"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="arkham-horror-2ndedition"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="monster-movement"/>
+    <Count Count="2"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="diskwars"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="core-worlds"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="nuns-on-the-run"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="axis-and-allies-mini"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="ghost-catch"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="belote"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="somnium"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="kids-of-catan"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="swish"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="chez-geek"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="third-reich"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="decktet"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="rota"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="farmageddon"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="schnapsen"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="space-alert"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="pandante"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="substitutes"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="gosu"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="few-acres-of-snow"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="friday"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="warhammer-quest"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="set"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="senet"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="spiel-des-jahres"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dont-break-the-ice"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="pass-the-pigs"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="great-dalmuti"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="destruct-3"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="alexandros"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="conquest-lcg"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="monopoly-city"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="lancaster"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mr-jack-pocket"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="day-and-night"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="asia-engulfed"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="wooly-bully"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="villages"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="tobago"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mobile-frame-zero"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="game-of-the-goose"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="little-balancing"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="encore"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="metaplot"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mystery-of-the-abbey"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="robot-turtles"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="011"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="auf-achse"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="el-grande"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="chain-store"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="chupacabra"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="quatro"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="city-of-horror"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="harry-potter-rah"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="clash-of-cultures"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="world-in-flames"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="battleship-galaxies"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="pirate-king"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="chrononauts"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="little-dungeon"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="gears-of-war"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="lifeboat"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="monopoly-millionaire"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="inn-fighting"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="blueprints"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="senji"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="yggdrasil"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="cheaty-mages"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="cardfight-vanguard"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="gloria-picktoria"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="hare-and-tortoise"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="serenissima"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="chicago-express"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="manila"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-archenemy"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="nanuk"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="wings-of-glory"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="sentinels-tactics"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="deadlands-doomtown"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dungeon-command"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="scarborough-fair"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dust-warfare"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="evil-baby-orphanage"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="who-wants-millionaire"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="terror-in-meeple-city"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dixit-odyssey"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="shadows-of-brimstone"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="odysseus"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="elixir"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="bismarck"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="the-captain-is-dead-adrift"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="antike-duellum"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="trivial-pursuit"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="niagara"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="chitin-1"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="cranium"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="churchill"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="samurai-spirit"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="lets-kill-krampus"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="one-hit-kill"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="lords-and-ladies"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="awesome-kingdom"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="high-caliber-ops"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="blood-bowl-team-manager"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="solo-whist"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="top-trumps"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="evolution-origin"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="nuts"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="nim"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="last-will"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="epaminondas"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="cat-tower"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="thunderbolt-apache-leader"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="trumpet"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="constantinopolis"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="diamonsters"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="endeavor"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="shark"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="ratuki"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="thurn-and-taxis"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="fit"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="drunter-und-druber"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="quizl"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="cthulhu-hastur"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="billionaire"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="leader-1"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="quadropolis"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="infernal-contraption"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="imperial-2030"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="trouble-despicable-me"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="cassino-the-card-game"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="masters-of-venice"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="king-of-new-york"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="welcome-to-the-dungeon"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="monarch"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="a-study-in-emerald"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="monster-my-neighbor"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="maharaja"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="war-card-game"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="epic-card-game"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="the-business-game"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="spoons"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="word-thief"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="merchants-and-marauders"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="legendary-firefly"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="simply-catan"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="legendary-bigtrouble"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mysterium"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="captain-sonar"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="trajan"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="bootleggers"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="circus-imperium"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="en-garde-1975"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="the-duke"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="stay-away"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="trickerion"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="orleans"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="eldritch-horror-signs-of-carcosa"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="milk-caps"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="and-then-we-held-hands"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dou-dizhu"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="saloon-tycoon"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="x-files-ccg"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="power-struggle"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="big-two"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="risk-express"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="pictionary"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="legendary-alien"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="through-the-desert"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="medieval-academy"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="equilibrio"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="acquire"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="are-you-the-traitor"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="antike"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="epigo"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="chariot-race"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="revolution"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="revolution-anarchy"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="nyet"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="judge-dredd"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="whitechapel"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="rook"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="starbase-jeff"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="music-game-level-1"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="troyes"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="crack-the-case"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="primordial-soup"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="whist"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="primordial-soup-fs"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="chainmail"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="priests-of-ra"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="burgle-bros"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="wargames-research-group"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="stalingrad-pocket-ii"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="y"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="kill-doctor-lucky"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="save-doctor-lucky"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="above-and-below"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="watson-and-holmes"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="the-big-book-of-madness"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="potion-explosion"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="argent-the-consortium"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="argent-mancers-university"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="timeline-cheapass-games"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="the-battle-of-five-armies"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="shut-the-box"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="deer-hunters-challenge"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="samurai-sword"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="the-grizzled"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="one-night-ultimate-alien"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="the-pillars-of-the-earth"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="skat"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dead-men-tell-no-tales"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="pandemic-iberia"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="apotheca"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="star-wars-vcr"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-tiny-leaders"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dc-comics-deck-building-rivals"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="krosmaster-arena"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="cash-n-guns"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="the-generals"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="xiangqi"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="clank-in-space"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="domineering"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="star-trek-attack-wing"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="do-over"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="waterworks"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="world-of-warriors"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-frontier"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="berserk-war-of-the-realms"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="winter-tales"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="eldritch-horror-the-dreamlands"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="escape-from-colditz"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="star-wars-empire-vs-rebellion"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="star-fleet-battles"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="inis"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="game-of-life-adventures-card-game"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="trouble"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mechs-vs-minions"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="nosferatu"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dog"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="siege-storm"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="hunt-for-the-ring"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="steampunk-rally"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="shadowrift"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="zoomaka"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="constellations"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="red-dragon-inn"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="contact"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="tiny-epic-zombies"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="sake-and-samurai"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="beer-and-vikings"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="times-up"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="battlestations"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="near-and-far"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="red-dog"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mini-rogue"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="afrikan-tahti"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="shaun-the-sheep"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="brief-history-of-the-world"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="kingdom-death-monster"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="crossfire"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="rukshuk"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="barbu"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="the-mind"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="hand-of-fate-ordeals"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="london"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="pentaquark"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="now-thats-what-i-call-music"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="tokyo-metro"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="one-night-werewolf-monster"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="auztralia"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="rialto"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="reef-route"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="yu-gi-oh-dungeon-dice-monsters"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="innovation"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="my-first-carcassonne"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="unspeakable-words"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="durak"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="obscurio"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="damath"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="kingdom-quest"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="constellations-petra-press"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mtg-awaken"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="shobu"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="pitch"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="die-hard-nakatomi-heist"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="lovecraft-letter"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="parade"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="colpevole"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="rallyman-gt"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="marrying-mr-darcy"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="century-a-new-world"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="lauberge-des-pirates"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="margraves-of-valeria"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="zombie-life"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="indian-rummy"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="space-park"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="q-bitz"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="7-wonders-2020"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="resource-management"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="barking-kittens"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="29"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="chess960"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="megaland"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="call-to-adventure"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="legacy"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="space-empires"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="karak"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="world-of-warcraft-wrath-of-the-lich"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="imaginarium"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="imaginarium-chimera"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="welcome-to"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="tapestry"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="monopoly-hotels"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="ishtar"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="thats-pretty-clever"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dungeons-dice-and-danger"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="mariposas"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dandelions"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="arkham-horror-3rd-edition"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="arkham-horror-secrets-of-the-order"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="commands-and-colors-ancients"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="soviet-kitchen-unleashed"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="uno-mario-kart"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="buffy-the-vampire-slayer"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="lizard-wizard"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="dune-house-secrets"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="decrypto"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="turing-machine"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="cryptid"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="ludo"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="uno-show-em-no-mercy"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="the-social-justice-game"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="contract-bridge"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="acol"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="standard-english"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="eleusis"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="sky-monster"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="encounters"/>
+    <Count Count="1"/>
+  </Tag>
+  <Tag>
+    <TagName TagName="movement"/>
+    <Count Count="1"/>
+  </Tag>
+</Tags>
